@@ -37,3 +37,6 @@ bower_components/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignorar diretório de dados do PostgreSQL
+data/
